@@ -15,11 +15,11 @@
 ### 📰 My Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [How to find blog content ideas effortlessly?](https://blog.greenroots.info/how-to-find-blog-content-ideas-effortlessly-ckghrjv5200o7rhs1ewn40102)
-- [10 useful HTML file upload tips for web developers](https://blog.greenroots.info/10-useful-html-file-upload-tips-for-web-developers-ckgetegpf0c7go9s123wvg7bi)
-- [How to Create an Image Gallery Using Gatsby and Cloudinary](https://www.freecodecamp.org/news/how-to-create-an-image-gallery-gatsby-and-cloudinary/)
-- [The JavaScript `this` Keyword + 5 Key Binding Rules Explained for JS Beginners](https://www.freecodecamp.org/news/javascript-this-keyword-binding-rules/)
+- [10 useful HTML file upload tips for web developers.](https://blog.greenroots.info/10-useful-html-file-upload-tips-for-web-developers-ckgetegpf0c7go9s123wvg7bi)
+- [How to Create an Image Gallery Using Gatsby and Cloudinary?](https://www.freecodecamp.org/news/how-to-create-an-image-gallery-gatsby-and-cloudinary/)
+- [The JavaScript `this` Keyword + 5 Key Binding Rules Explained for JS Beginners.](https://www.freecodecamp.org/news/javascript-this-keyword-binding-rules/)
 - [Why do you need to know about Array-like Objects?](https://daily.dev/posts/why-do-you-need-to-know-about-array-like-objects)
-- [10 useful HTML5 features, you may not be using](https://dev.to/atapas/10-useful-html5-features-you-may-not-be-using-2bk0)
+- [10 useful HTML5 features, you may not be using.](https://dev.to/atapas/10-useful-html5-features-you-may-not-be-using-2bk0)
 <!-- BLOG-POST-LIST:END -->
 
 ## ✍️ I Write For
