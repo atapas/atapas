@@ -26,7 +26,7 @@
 <!-- I-WRITE-FOR:START -->
 - [GreenRoots - My Hashnode powered blog](https://blog.greenroots.info/)
 - [freeCodeCamp News](https://www.freecodecamp.org/news/author/tapas/)
-- [DEV Community](https://dev.to/@atapas)
+- [DEV Community](https://dev.to/atapas)
 - [HACKERnoon](https://hackernoon.com/u/greenroots)
 - [daily.dev](https://daily.dev/blog)
 <!-- I-WRITE-FOR:END -->
