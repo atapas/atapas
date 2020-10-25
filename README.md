@@ -48,7 +48,7 @@ You are welcome fo follow 🤝 me here to stay connected.
 - [Notify Me](https://notify-timeline.netlify.app/) ([repo](https://github.com/atapas/notifyme))
 - [Thought Horoscope(Repo only)](https://github.com/atapas/thought-horoscope)
 - [Add Copyright(Repo only)](https://github.com/atapas/add-copyright)
-- [i18n-js(Repo only)](https://github.com/atapas/i18n-js)
+- [i18n-web(Repo only)](https://github.com/atapas/i18n-js-npm) 
 - [Nanny Plum(Repo only)](https://github.com/atapas/nanny-plum)
 - [tapasadhikary.com(Demo only)](https://tapasadhikary.com)
 <!-- MY-SHOWOFF-PROJECTS:END -->
