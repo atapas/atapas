@@ -1,5 +1,4 @@
 <h2 align="center">Hello there! My name is Tapas Adhikary 👋🤓</h2>
-<hr />
 
 <img src="./images/profile.png" alt="profile" />
 
@@ -8,8 +7,8 @@
 <a href="https://blog.greenroots.info/" target="_blank"><img height="30" src="./social/500x500.png"></a>&nbsp;&nbsp;
 <a href="https://www.freecodecamp.org/news/author/tapas/" target="_blank"><img height="30" src="./social/fcc_secondary_small.png"></a>&nbsp;&nbsp;
 <a href="https://hashnode.com/@atapas" target="_blank"><img height="30" src="./social/hashnode.png"></a>&nbsp;&nbsp;
-<a href="https://dev.to/atapas"  target="_blank"><img height="35" src="./social/devto_black.png"></a>&nbsp;&nbsp;
-<a href="https://tapasadhikary.com"  target="_blank"><img height="33" src="./social/website.png"></a>
+<a href="https://dev.to/atapas"  target="_blank"><img height="30" src="./social/devto_black.png"></a>&nbsp;&nbsp;
+<a href="https://tapasadhikary.com"  target="_blank"><img height="30" src="./social/website.png"></a>
 
 </p>
 
