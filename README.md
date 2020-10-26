@@ -34,7 +34,7 @@
 ## 🚀 My Show-off projects
 Who doesn't need motivations? Show your support with a star(⭐) if any of my projects inspire you or helpful to you. 
 
-You are welcome fo follow 🤝 me here to stay connected.
+You are welcome to follow 🤝 me here to stay connected.
 
 <!-- MY-SHOWOFF-PROJECTS:START -->
 - [DemoLab](https://demo.greenroots.info/) ([repo](https://github.com/atapas/demolab))
