@@ -14,6 +14,7 @@
 
 ### 📰 My Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [https://www.freecodecamp.org/news/what-is-metaprogramming-in-javascript-in-english-please/](https://www.freecodecamp.org/news/what-is-metaprogramming-in-javascript-in-english-please/)
 - [How to use JavaScript scheduling methods with React hooks](https://blog.greenroots.info/how-to-use-javascript-scheduling-methods-with-react-hooks-ckh1jzb0u01sg2ps1cvm4afzr)
 - [How to log user activities using the Beacon Web API?](https://blog.greenroots.info/how-to-log-user-activities-using-the-beacon-web-api-ckgq6s7k0094do9s15udf767u)
 - [How to find blog content ideas effortlessly?](https://blog.greenroots.info/how-to-find-blog-content-ideas-effortlessly-ckghrjv5200o7rhs1ewn40102)
