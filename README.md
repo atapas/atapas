@@ -30,6 +30,7 @@
 - [DEV Community](https://dev.to/atapas)
 - [HACKERnoon](https://hackernoon.com/u/greenroots)
 - [daily.dev](https://daily.dev/blog)
+- [bugfender](https://bugfender.com/blog/author/tapasadhikary/)
 <!-- I-WRITE-FOR:END -->
 
 ## 🚀 My Show-off projects
