@@ -68,3 +68,5 @@ You are welcome to follow 🤝 me here to stay connected.
 
 ## 📈 Interested in Stats?
 ![Tapas's Github Stats](https://github-readme-stats.vercel.app/api?username=atapas&show_icons=true&theme=radical)
+
+![Visitor Count](https://profile-counter.glitch.me/atapas/count.svg)
