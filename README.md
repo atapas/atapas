@@ -69,4 +69,6 @@ You are welcome to follow 🤝 me here to stay connected.
 ## 📈 Interested in Stats?
 ![Tapas's Github Stats](https://github-readme-stats.vercel.app/api?username=atapas&show_icons=true&theme=radical)
 
-Counting since 30th Nov 2020: ![Visitor Count](https://profile-counter.glitch.me/atapas/count.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atapas)](https://github.com/anuraghazra/github-readme-stats)
+
+**Page Views**(Counting since 30th Nov 2020): ![Visitor Count](https://profile-counter.glitch.me/atapas/count.svg)
