@@ -14,11 +14,13 @@
 
 ### 📰 My Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I've completed a HackFest project, here is what I've learned](https://blog.greenroots.info/ive-completed-a-hackfest-project-here-is-what-ive-learned-ckipjd21d032xw8s13x78242y)
+- [JavaScript Promise Tutorial – How to Resolve or Reject Promises](https://www.freecodecamp.org/news/javascript-promise-tutorial-how-to-resolve-or-reject-promises-in-js/)
+- [What is Metaprogramming in JavaScript? In English, please.](https://www.freecodecamp.org/news/what-is-metaprogramming-in-javascript-in-english-please/)
+- [How to log user activities using the Beacon Web API?](https://blog.greenroots.info/how-to-log-user-activities-using-the-beacon-web-api-ckgq6s7k0094do9s15udf767u)
 - [How to find blog content ideas effortlessly?](https://blog.greenroots.info/how-to-find-blog-content-ideas-effortlessly-ckghrjv5200o7rhs1ewn40102)
 - [10 useful HTML file upload tips for web developers.](https://blog.greenroots.info/10-useful-html-file-upload-tips-for-web-developers-ckgetegpf0c7go9s123wvg7bi)
-- [How to Create an Image Gallery Using Gatsby and Cloudinary?](https://www.freecodecamp.org/news/how-to-create-an-image-gallery-gatsby-and-cloudinary/)
 - [The JavaScript `this` Keyword + 5 Key Binding Rules Explained for JS Beginners.](https://www.freecodecamp.org/news/javascript-this-keyword-binding-rules/)
-- [Why do you need to know about Array-like Objects?](https://daily.dev/posts/why-do-you-need-to-know-about-array-like-objects)
 - [10 useful HTML5 features, you may not be using.](https://dev.to/atapas/10-useful-html5-features-you-may-not-be-using-2bk0)
 <!-- BLOG-POST-LIST:END -->
 
@@ -29,14 +31,16 @@
 - [DEV Community](https://dev.to/atapas)
 - [HACKERnoon](https://hackernoon.com/u/greenroots)
 - [daily.dev](https://daily.dev/blog)
+- [bugfender](https://bugfender.com/blog/author/tapasadhikary/)
 <!-- I-WRITE-FOR:END -->
 
 ## 🚀 My Show-off projects
 Who doesn't need motivations? Show your support with a star(⭐) if any of my projects inspire you or helpful to you. 
 
-You are welcome fo follow 🤝 me here to stay connected.
+You are welcome to follow 🤝 me here to stay connected.
 
 <!-- MY-SHOWOFF-PROJECTS:START -->
+- [Shopnote](https://shopnote.netlify.app/) ([repo](https://github.com/atapas/shopnote))
 - [DemoLab](https://demo.greenroots.info/) ([repo](https://github.com/atapas/demolab))
 - [HTML Tips & Trics](https://html5-tips.netlify.app/) ([repo](https://github.com/atapas/html-tips-tricks))
 - [File Upload Tips](https://html-file-upload.netlify.app/) ([repo](https://github.com/atapas/html-file-upload))
@@ -48,7 +52,7 @@ You are welcome fo follow 🤝 me here to stay connected.
 - [Notify Me](https://notify-timeline.netlify.app/) ([repo](https://github.com/atapas/notifyme))
 - [Thought Horoscope(Repo only)](https://github.com/atapas/thought-horoscope)
 - [Add Copyright(Repo only)](https://github.com/atapas/add-copyright)
-- [i18n-js(Repo only)](https://github.com/atapas/i18n-js)
+- [i18n-web(Repo only)](https://github.com/atapas/i18n-js-npm) 
 - [Nanny Plum(Repo only)](https://github.com/atapas/nanny-plum)
 - [tapasadhikary.com(Demo only)](https://tapasadhikary.com)
 <!-- MY-SHOWOFF-PROJECTS:END -->
@@ -65,3 +69,7 @@ You are welcome fo follow 🤝 me here to stay connected.
 
 ## 📈 Interested in Stats?
 ![Tapas's Github Stats](https://github-readme-stats.vercel.app/api?username=atapas&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atapas)](https://github.com/anuraghazra/github-readme-stats)
+
+**Page Views**(Counting since 30th Nov 2020): ![Visitor Count](https://profile-counter.glitch.me/atapas/count.svg)
