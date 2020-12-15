@@ -15,6 +15,7 @@
 ### 📰 My Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [I've completed a HackFest project, here is what I've learned](https://blog.greenroots.info/ive-completed-a-hackfest-project-here-is-what-ive-learned-ckipjd21d032xw8s13x78242y)
+- [JavaScript Promise Tutorial – How to Resolve or Reject Promises](https://www.freecodecamp.org/news/javascript-promise-tutorial-how-to-resolve-or-reject-promises-in-js/)
 - [What is Metaprogramming in JavaScript? In English, please.](https://www.freecodecamp.org/news/what-is-metaprogramming-in-javascript-in-english-please/)
 - [How to log user activities using the Beacon Web API?](https://blog.greenroots.info/how-to-log-user-activities-using-the-beacon-web-api-ckgq6s7k0094do9s15udf767u)
 - [How to find blog content ideas effortlessly?](https://blog.greenroots.info/how-to-find-blog-content-ideas-effortlessly-ckghrjv5200o7rhs1ewn40102)
