@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://twitter.com/tapasadhikary" target="_blank"><img height="30" src="./social/twitter.png"></a>&nbsp;&nbsp;
 <a href="https://blog.greenroots.info/" target="_blank"><img height="30" src="./social/500x500.png"></a>&nbsp;&nbsp;
-<a href="https://www.freecodecamp.org/news/author/tapas/" target="_blank"><img height="30" src="./social/fcc_secondary_small.png"></a>&nbsp;&nbsp;
+<a href="https://www.freecodecamp.org/news/author/tapas/" target="_blank"><img height="30" src="./social/fcc_secondary_small.jpg"></a>&nbsp;&nbsp;
 <a href="https://hashnode.com/@atapas" target="_blank"><img height="30" src="./social/hashnode.png"></a>&nbsp;&nbsp;
 <a href="https://dev.to/atapas"  target="_blank"><img height="30" src="./social/devto.png"></a>&nbsp;&nbsp;
 <a href="https://tapasadhikary.com"  target="_blank"><img height="30" src="./social/website.png"></a>
