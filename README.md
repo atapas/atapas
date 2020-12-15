@@ -7,7 +7,7 @@
 <a href="https://blog.greenroots.info/" target="_blank"><img height="30" src="./social/500x500.png"></a>&nbsp;&nbsp;
 <a href="https://www.freecodecamp.org/news/author/tapas/" target="_blank"><img height="30" src="./social/fcc_secondary_small.png"></a>&nbsp;&nbsp;
 <a href="https://hashnode.com/@atapas" target="_blank"><img height="30" src="./social/hashnode.png"></a>&nbsp;&nbsp;
-<a href="https://dev.to/atapas"  target="_blank"><img height="30" src="./social/devto_black.png"></a>&nbsp;&nbsp;
+<a href="https://dev.to/atapas"  target="_blank"><img height="30" src="./social/devto.png"></a>&nbsp;&nbsp;
 <a href="https://tapasadhikary.com"  target="_blank"><img height="30" src="./social/website.png"></a>
 
 </p>
