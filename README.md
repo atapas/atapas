@@ -40,6 +40,7 @@ Who doesn't need motivations? Show your support with a star(⭐) if any of my pr
 You are welcome to follow 🤝 me here to stay connected.
 
 <!-- MY-SHOWOFF-PROJECTS:START -->
+- [The Princess Finder](http://princess-finder.netlify.app/) ([repo](https://github.com/atapas/princess-finder))
 - [The Purple Blog](https://gatsby-bugfender.netlify.app/) ([repo](https://github.com/atapas/gatsby-bugfender))
 - [Shopnote](https://shopnote.netlify.app/) ([repo](https://github.com/atapas/shopnote))
 - [DemoLab](https://demo.greenroots.info/) ([repo](https://github.com/atapas/demolab))
