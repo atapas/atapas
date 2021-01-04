@@ -14,6 +14,7 @@
 
 ### 📰 My Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Princess Finder using React, ml5.js, and Teachable Machine Learning](https://blog.greenroots.info/princess-finder-using-react-ml5js-and-teachable-machine-learning-ckj8288ch03gew7s1ht1u3pmu)
 - [I've completed a HackFest project, here is what I've learned](https://blog.greenroots.info/ive-completed-a-hackfest-project-here-is-what-ive-learned-ckipjd21d032xw8s13x78242y)
 - [JavaScript Promise Tutorial – How to Resolve or Reject Promises](https://www.freecodecamp.org/news/javascript-promise-tutorial-how-to-resolve-or-reject-promises-in-js/)
 - [What is Metaprogramming in JavaScript? In English, please.](https://www.freecodecamp.org/news/what-is-metaprogramming-in-javascript-in-english-please/)
