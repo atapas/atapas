@@ -32,7 +32,8 @@
 - [DEV Community](https://dev.to/atapas)
 - [HACKERnoon](https://hackernoon.com/u/greenroots)
 - [daily.dev](https://daily.dev/blog)
-- [bugfender](https://bugfender.com/blog/author/tapasadhikary/)
+- [Bugfender](https://bugfender.com/blog/author/tapasadhikary/)
+- [Educative Edpresso Shorts](https://www.educative.io/profile/view/6363232210518016)
 <!-- I-WRITE-FOR:END -->
 
 ## 🚀 My Show-off projects
