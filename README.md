@@ -42,6 +42,8 @@ Who doesn't need motivations? Show your support with a star(⭐) if any of my pr
 You are welcome to follow 🤝 me here to stay connected.
 
 <!-- MY-SHOWOFF-PROJECTS:START -->
+- [Theming System and Theme Builder](https://theme-builder.netlify.app/) ([repo](https://github.com/atapas/theme-builder))
+- [Keyboard Events Playground](https://keyevents.netlify.app/) ([repo](https://github.com/atapas/js-keyevents-demo))
 - [The Princess Finder](http://princess-finder.netlify.app/) ([repo](https://github.com/atapas/princess-finder))
 - [The Purple Blog](https://gatsby-bugfender.netlify.app/) ([repo](https://github.com/atapas/gatsby-bugfender))
 - [Shopnote](https://shopnote.netlify.app/) ([repo](https://github.com/atapas/shopnote))
