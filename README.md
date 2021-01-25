@@ -34,7 +34,7 @@
 - [css-tricks.com](https://css-tricks.com/author/tapasadhikary/)
 - [DEV Community](https://dev.to/atapas)
 - [HACKERnoon](https://hackernoon.com/u/greenroots)
-- [daily.dev](https://daily.dev/blog)
+- [daily.dev](https://app.daily.dev/atapas)
 - [Bugfender](https://bugfender.com/blog/author/tapasadhikary/)
 - [Educative Edpresso Shorts](https://www.educative.io/profile/view/6363232210518016)
 <!-- I-WRITE-FOR:END -->
