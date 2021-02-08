@@ -15,12 +15,12 @@
 ### 📰 My Top 10 Blog Posts
 <!-- BLOG-POST-LIST:START -->
 1. [10 lesser-known Web APIs you may want to use](https://blog.greenroots.info/10-lesser-known-web-apis-you-may-want-to-use-ckejv75cr012y70s158n85yhn)
+1. [How to Learn Something New Every Day as a Software Developer](https://www.freecodecamp.org/news/learn-something-new-every-day-as-a-software-developer/)
 1. [Theming and Theme Switching with React and styled-components](https://css-tricks.com/theming-and-theme-switching-with-react-and-styled-components/)
 1. [JavaScript Keycode List – Keypress Event Key Codes for Enter, Space, Backspace, and More](https://www.freecodecamp.org/news/javascript-keycode-list-keypress-event-key-codes/)
 1. [Princess Finder using React, ml5.js, and Teachable Machine Learning](https://blog.greenroots.info/princess-finder-using-react-ml5js-and-teachable-machine-learning-ckj8288ch03gew7s1ht1u3pmu)
 1. [10 useful HTML5 features, you may not be using.](https://dev.to/atapas/10-useful-html5-features-you-may-not-be-using-2bk0)
 1. [JavaScript Promise Tutorial – How to Resolve or Reject Promises](https://www.freecodecamp.org/news/javascript-promise-tutorial-how-to-resolve-or-reject-promises-in-js/)
-1. [What is Metaprogramming in JavaScript? In English, please.](https://www.freecodecamp.org/news/what-is-metaprogramming-in-javascript-in-english-please/)
 1. [How to log user activities using the Beacon Web API?](https://blog.greenroots.info/how-to-log-user-activities-using-the-beacon-web-api-ckgq6s7k0094do9s15udf767u)
 1. [How to find blog content ideas effortlessly?](https://blog.greenroots.info/how-to-find-blog-content-ideas-effortlessly-ckghrjv5200o7rhs1ewn40102)
 1. [The JavaScript `this` Keyword + 5 Key Binding Rules Explained for JS Beginners.](https://www.freecodecamp.org/news/javascript-this-keyword-binding-rules/)
