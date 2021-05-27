@@ -16,8 +16,9 @@
 
 ## 📈 My GitHub Stats  
 ![Tapas's Github Stats](https://github-readme-stats.vercel.app/api?username=atapas&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atapas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## NPM Packages Published by Me
+## 📦 NPM Packages Published by Me
 ![npm](https://img.shields.io/npm/dt/react-notification-timeline?label=react-notification-timeline&style=plastic)
 ![npm](https://img.shields.io/npm/dt/i18n-web?label=i18n-web&style=plastic)
 ![npm](https://img.shields.io/npm/dt/react-clip-path?label=react-clip-path&style=plastic)
@@ -96,8 +97,5 @@ You are welcome to follow 🤝 me here to stay connected.
 - [Instagram](https://www.instagram.com/tapas.adhikary/) 😎
 - [Facebook](https://www.facebook.com/tapasadhi) 😏
 <!-- YOU-CAN-FIND-ME:END -->
-
-## Interested in More Stats?
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atapas)](https://github.com/anuraghazra/github-readme-stats)
 
 **Page Views**(Counting since 30th Nov 2020): ![Visitor Count](https://profile-counter.glitch.me/atapas/count.svg)
