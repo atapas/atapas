@@ -1,20 +1,38 @@
 <h2 align="center">Hello there! My name is Tapas Adhikary 👋🤓</h2>
 
+<p align=center>
 <img src="./images/profile.png" alt="profile" />
-
-<p align="center">
-<a href="https://twitter.com/tapasadhikary" target="_blank"><img height="30" src="./social/twitter.png"></a>&nbsp;&nbsp;
-<a href="https://blog.greenroots.info/" target="_blank"><img height="30" src="./social/500x500.png"></a>&nbsp;&nbsp;
-<a href="https://www.freecodecamp.org/news/author/tapas/" target="_blank"><img height="30" src="./social/fcc_secondary_small.jpg"></a>&nbsp;&nbsp;
-<a href="https://hashnode.com/@atapas" target="_blank"><img height="30" src="./social/hashnode.png"></a>&nbsp;&nbsp;
-<a href="https://dev.to/atapas"  target="_blank"><img height="30" src="./social/devto.png"></a>&nbsp;&nbsp;
-<a href="https://tapasadhikary.com"  target="_blank"><img height="30" src="./social/website.png"></a>
 </p>
+
+
+<p align=center>
+  <img alt="Twitter Follow" height="30px" src="https://img.shields.io/twitter/follow/tapasadhikary?label=Followers%20on%20Twitter&style=social">
+</p>
+
+<!--
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCaYr5yxgOyk599Mnb3TGh-g?label=My%20YouTube%20Subscribers&style=social)
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/atapas?label=Reddit%20Karma&style=social)
+-->
 
 ## 📈 My GitHub Stats  
 ![Tapas's Github Stats](https://github-readme-stats.vercel.app/api?username=atapas&show_icons=true&theme=radical)
 
+## NPM Packages Published by Me
+![npm](https://img.shields.io/npm/dt/react-notification-timeline?label=react-notification-timeline&style=plastic)
+![npm](https://img.shields.io/npm/dt/i18n-web?label=i18n-web&style=plastic)
+![npm](https://img.shields.io/npm/dt/react-clip-path?label=react-clip-path&style=plastic)
+
 ## 📰 My Top 10 Blog Posts
+
+<p align="center">
+<a href="https://twitter.com/tapasadhikary" target="_blank"><img height="30" width="30" src="./social/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://blog.greenroots.info/" target="_blank"><img height="30" width="30" src="./social/500x500.png"></a>&nbsp;&nbsp;
+<a href="https://www.freecodecamp.org/news/author/tapas/" target="_blank"><img height="30" width="30" src="./social/fcc_secondary_small.jpg"></a>&nbsp;&nbsp;
+<a href="https://hashnode.com/@atapas" target="_blank"><img height="30" width="30" src="./social/hashnode.png"></a>&nbsp;&nbsp;
+<a href="https://dev.to/atapas"  target="_blank"><img height="30" width="30" src="./social/devto.png"></a>&nbsp;&nbsp;
+<a href="https://tapasadhikary.com"  target="_blank"><img height="30" width="30" src="./social/website.png"></a>
+</p>
+
 <!-- BLOG-POST-LIST:START -->
 1. [10 lesser-known Web APIs you may want to use](https://blog.greenroots.info/10-lesser-known-web-apis-you-may-want-to-use-ckejv75cr012y70s158n85yhn)
 1. [How to Learn Something New Every Day as a Software Developer](https://www.freecodecamp.org/news/learn-something-new-every-day-as-a-software-developer/)
