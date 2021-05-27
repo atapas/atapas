@@ -9,10 +9,12 @@
 <a href="https://hashnode.com/@atapas" target="_blank"><img height="30" src="./social/hashnode.png"></a>&nbsp;&nbsp;
 <a href="https://dev.to/atapas"  target="_blank"><img height="30" src="./social/devto.png"></a>&nbsp;&nbsp;
 <a href="https://tapasadhikary.com"  target="_blank"><img height="30" src="./social/website.png"></a>
-
 </p>
 
-### 📰 My Top 10 Blog Posts
+## 📈 My GitHub Stats  
+![Tapas's Github Stats](https://github-readme-stats.vercel.app/api?username=atapas&show_icons=true&theme=radical)
+
+## 📰 My Top 10 Blog Posts
 <!-- BLOG-POST-LIST:START -->
 1. [10 lesser-known Web APIs you may want to use](https://blog.greenroots.info/10-lesser-known-web-apis-you-may-want-to-use-ckejv75cr012y70s158n85yhn)
 1. [How to Learn Something New Every Day as a Software Developer](https://www.freecodecamp.org/news/learn-something-new-every-day-as-a-software-developer/)
@@ -77,9 +79,7 @@ You are welcome to follow 🤝 me here to stay connected.
 - [Facebook](https://www.facebook.com/tapasadhi) 😏
 <!-- YOU-CAN-FIND-ME:END -->
 
-## 📈 Interested in Stats?
-![Tapas's Github Stats](https://github-readme-stats.vercel.app/api?username=atapas&show_icons=true&theme=radical)
-
+## Interested in More Stats?
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atapas)](https://github.com/anuraghazra/github-readme-stats)
 
 **Page Views**(Counting since 30th Nov 2020): ![Visitor Count](https://profile-counter.glitch.me/atapas/count.svg)
