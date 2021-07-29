@@ -57,6 +57,7 @@
 - [HACKERnoon](https://hackernoon.com/u/greenroots)
 - [daily.dev](https://app.daily.dev/atapas)
 - [Bugfender](https://bugfender.com/blog/author/tapasadhikary/)
+- [Aviyel](https://aviyel.com/discussions)
 - [Educative Edpresso Shorts](https://www.educative.io/profile/view/6363232210518016)
 - [Teal Feed](https://tealfeed.com/tapasadhikary54b)
 <!-- I-WRITE-FOR:END -->
