@@ -6,13 +6,11 @@
 
 
 <p align=center>
-  <img alt="Twitter Follow" height="30px" src="https://img.shields.io/twitter/follow/tapasadhikary?label=Friends%20on%20Twitter&style=social">
+  <img alt="Twitter Follow" height="30px" src="https://img.shields.io/twitter/follow/tapasadhikary?label=Friends%20on%20Twitter&style=social">  . 
+  <img alt="YouTube Channel Subscribers" height="30px" src="https://img.shields.io/youtube/channel/subscribers/UCaYr5yxgOyk599Mnb3TGh-g?label=Subscribers&style=social"> . 
+  <img alt="Reddit User Karma" height="30px" src="https://img.shields.io/reddit/user-karma/combined/atapas?label=Reddit%20Karma&style=social">
 </p>
 
-<!--
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCaYr5yxgOyk599Mnb3TGh-g?label=My%20YouTube%20Subscribers&style=social)
-![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/atapas?label=Reddit%20Karma&style=social)
--->
 
 ## 📈 My GitHub Stats  
 ![Tapas's Github Stats](https://github-readme-stats.vercel.app/api?username=atapas&show_icons=true&theme=radical)
