@@ -6,7 +6,7 @@
 
 
 <p align=center>
-  <img alt="Twitter Follow" height="30px" src="https://img.shields.io/twitter/follow/tapasadhikary?label=Followers%20on%20Twitter&style=social">
+  <img alt="Twitter Follow" height="30px" src="https://img.shields.io/twitter/follow/tapasadhikary?label=Friends%20on%20Twitter&style=social">
 </p>
 
 <!--
