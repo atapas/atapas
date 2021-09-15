@@ -21,6 +21,38 @@
 ![npm](https://img.shields.io/npm/dt/i18n-web?label=i18n-web&style=plastic)
 ![npm](https://img.shields.io/npm/dt/react-clip-path?label=react-clip-path&style=plastic)
 
+## 🚀 My Side Hustles
+Here are my Side Hustles. Most of the projects I have created are opensource. Please consider contributing to them. You are welcome to follow 🤝 me here to stay connected. Who doesn't need motivations? Show your support with a star(⭐) if any of my projects inspire you or helpful to you. 
+
+
+<!-- MY-SHOWOFF-PROJECTS:START -->
+- [TryShape - Give your Creativity a Shape](https://tryshape.vercel.app/) ([repo](https://github.com/TryShape/tryshape))
+- [Web APIs Playground](http://js-webapis.netlify.app/) ([repo](https://github.com/atapas/webapis-playground))
+- [ANKO - A Dad's effort to make the daughter love maths(Demo only)](https://anko.netlify.com/)
+- [Flicks - A Serverless Book Library App](https://flicks.gatsbyjs.io/) ([repo](https://github.com/atapas/flicks))
+- [Jamstack Subscription Form](https://subscription-form.netlify.app) ([repo](https://github.com/atapas/jamstack-subscription-form))
+- [Theming System and Theme Builder](https://theme-builder.netlify.app/) ([repo](https://github.com/atapas/theme-builder))
+- [Keyboard Events Playground](https://keyevents.netlify.app/) ([repo](https://github.com/atapas/js-keyevents-demo))
+- [The Princess Finder](http://princess-finder.netlify.app/) ([repo](https://github.com/atapas/princess-finder))
+- [The Purple Blog](https://gatsby-bugfender.netlify.app/) ([repo](https://github.com/atapas/gatsby-bugfender))
+- [Shopnote](https://shopnote.netlify.app/) ([repo](https://github.com/atapas/shopnote))
+- [DemoLab](https://demo.greenroots.info/) ([repo](https://github.com/atapas/demolab))
+- [HTML Tips & Trics](https://html5-tips.netlify.app/) ([repo](https://github.com/atapas/html-tips-tricks))
+- [File Upload Tips](https://html-file-upload.netlify.app/) ([repo](https://github.com/atapas/html-file-upload))
+- [CSS Animation Unboxed](https://css-animation-fun.netlify.app/) ([repo](https://github.com/atapas/learn-css-animation/))
+- [JS Tips and Tricks(Repo only)](https://github.com/atapas/js-tips-tricks)
+- [Imaginary](https://imaginary.netlify.app/) ([repo](https://github.com/atapas/imaginary))
+- [COVID-19 World](https://covid-19-world.netlify.com/) ([repo](https://github.com/atapas/covid-19))
+- [AQI React](https://air-quality-index.netlify.com/) ([repo](https://github.com/atapas/aqi-react))
+- [Notify Me](https://notify-timeline.netlify.app/) ([repo](https://github.com/atapas/notifyme))
+- [Thought Horoscope(Repo only)](https://github.com/atapas/thought-horoscope)
+- [Add Copyright(Repo only)](https://github.com/atapas/add-copyright)
+- [i18n-web(Repo only)](https://github.com/atapas/i18n-js-npm) 
+- [Nanny Plum(Repo only)](https://github.com/atapas/nanny-plum)
+- [tapasadhikary.com(Demo only)](https://tapasadhikary.com)
+<!-- MY-SHOWOFF-PROJECTS:END -->
+
+
 ## 📰 My Top 10 Blog Posts
 
 <p align="center">
@@ -60,37 +92,6 @@
 - [Teal Feed](https://tealfeed.com/tapasadhikary54b)
 <!-- I-WRITE-FOR:END -->
 
-## 🚀 My Show-off projects
-Who doesn't need motivations? Show your support with a star(⭐) if any of my projects inspire you or helpful to you. 
-
-You are welcome to follow 🤝 me here to stay connected.
-
-<!-- MY-SHOWOFF-PROJECTS:START -->
-- [TryShape - Give your Creativity a Shape](https://tryshape.vercel.app/) ([repo](https://github.com/TryShape/tryshape))
-- [Web APIs Playground](http://js-webapis.netlify.app/) ([repo](https://github.com/atapas/webapis-playground))
-- [ANKO - A Dad's effort to make the daughter love maths(Demo only)](https://anko.netlify.com/)
-- [Flicks - A Serverless Book Library App](https://flicks.gatsbyjs.io/) ([repo](https://github.com/atapas/flicks))
-- [Jamstack Subscription Form](https://subscription-form.netlify.app) ([repo](https://github.com/atapas/jamstack-subscription-form))
-- [Theming System and Theme Builder](https://theme-builder.netlify.app/) ([repo](https://github.com/atapas/theme-builder))
-- [Keyboard Events Playground](https://keyevents.netlify.app/) ([repo](https://github.com/atapas/js-keyevents-demo))
-- [The Princess Finder](http://princess-finder.netlify.app/) ([repo](https://github.com/atapas/princess-finder))
-- [The Purple Blog](https://gatsby-bugfender.netlify.app/) ([repo](https://github.com/atapas/gatsby-bugfender))
-- [Shopnote](https://shopnote.netlify.app/) ([repo](https://github.com/atapas/shopnote))
-- [DemoLab](https://demo.greenroots.info/) ([repo](https://github.com/atapas/demolab))
-- [HTML Tips & Trics](https://html5-tips.netlify.app/) ([repo](https://github.com/atapas/html-tips-tricks))
-- [File Upload Tips](https://html-file-upload.netlify.app/) ([repo](https://github.com/atapas/html-file-upload))
-- [CSS Animation Unboxed](https://css-animation-fun.netlify.app/) ([repo](https://github.com/atapas/learn-css-animation/))
-- [JS Tips and Tricks(Repo only)](https://github.com/atapas/js-tips-tricks)
-- [Imaginary](https://imaginary.netlify.app/) ([repo](https://github.com/atapas/imaginary))
-- [COVID-19 World](https://covid-19-world.netlify.com/) ([repo](https://github.com/atapas/covid-19))
-- [AQI React](https://air-quality-index.netlify.com/) ([repo](https://github.com/atapas/aqi-react))
-- [Notify Me](https://notify-timeline.netlify.app/) ([repo](https://github.com/atapas/notifyme))
-- [Thought Horoscope(Repo only)](https://github.com/atapas/thought-horoscope)
-- [Add Copyright(Repo only)](https://github.com/atapas/add-copyright)
-- [i18n-web(Repo only)](https://github.com/atapas/i18n-js-npm) 
-- [Nanny Plum(Repo only)](https://github.com/atapas/nanny-plum)
-- [tapasadhikary.com(Demo only)](https://tapasadhikary.com)
-<!-- MY-SHOWOFF-PROJECTS:END -->
 
 ## 📫 You can find me @
 <!-- YOU-CAN-FIND-ME:START -->
