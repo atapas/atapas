@@ -20,7 +20,7 @@
 ![npm](https://img.shields.io/npm/dt/react-notification-timeline?label=react-notification-timeline&style=plastic)
 ![npm](https://img.shields.io/npm/dt/i18n-web?label=i18n-web&style=plastic)
 ![npm](https://img.shields.io/npm/dt/react-clip-path?label=react-clip-path&style=plastic) 
-![npm](https://img.shields.io/npm/dt/react-clip-path?label=gatsby-source-harperdb)
+![npm](https://img.shields.io/npm/dt/gatsby-source-harperdb?label=gatsby-source-harperdb)
 
 ## 🚀 My Side Hustles
 Here are my top-most Side Hustles. Most of the projects I have created are opensource. Please consider contributing to them. You are welcome to follow 🤝 me here to stay connected. Who doesn't need motivations? Show your support with a star(⭐) if any of my projects inspire you or helpful to you. 
