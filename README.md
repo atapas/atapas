@@ -66,7 +66,7 @@ Here are my top-most Side Hustles. Most of the projects I have created are opens
 </p>
 
 <!-- BLOG-POST-LIST:START -->
-1. [10 lesser-known Web APIs you may want to use](https://blog.greenroots.info/10-lesser-known-web-apis-you-may-want-to-use-ckejv75cr012y70s158n85yhn)
+1. [What are Pure Functions and Side Effects in JavaScript?](https://blog.greenroots.info/what-are-pure-functions-and-side-effects-in-javascript)
 1. [How to Learn Something New Every Day as a Software Developer](https://www.freecodecamp.org/news/learn-something-new-every-day-as-a-software-developer/)
 1. [Theming and Theme Switching with React and styled-components](https://css-tricks.com/theming-and-theme-switching-with-react-and-styled-components/)
 1. [JavaScript Keycode List – Keypress Event Key Codes for Enter, Space, Backspace, and More](https://www.freecodecamp.org/news/javascript-keycode-list-keypress-event-key-codes/)
@@ -75,7 +75,7 @@ Here are my top-most Side Hustles. Most of the projects I have created are opens
 1. [JavaScript Promise Tutorial – How to Resolve or Reject Promises](https://www.freecodecamp.org/news/javascript-promise-tutorial-how-to-resolve-or-reject-promises-in-js/)
 1. [How to log user activities using the Beacon Web API?](https://blog.greenroots.info/how-to-log-user-activities-using-the-beacon-web-api-ckgq6s7k0094do9s15udf767u)
 1. [How to find blog content ideas effortlessly?](https://blog.greenroots.info/how-to-find-blog-content-ideas-effortlessly-ckghrjv5200o7rhs1ewn40102)
-1. [The JavaScript `this` Keyword + 5 Key Binding Rules Explained for JS Beginners.](https://www.freecodecamp.org/news/javascript-this-keyword-binding-rules/)
+1. [JSON for Beginners – JavaScript Object Notation Explained in Plain English](https://www.freecodecamp.org/news/what-is-json-a-json-file-example/)
 
 <!-- BLOG-POST-LIST:END -->
 
@@ -88,9 +88,10 @@ Here are my top-most Side Hustles. Most of the projects I have created are opens
 - [HACKERnoon](https://hackernoon.com/u/greenroots)
 - [daily.dev](https://app.daily.dev/atapas)
 - [Bugfender](https://bugfender.com/blog/author/tapasadhikary/)
+- [OpenReplay](https://blog.openreplay.com/authors/tapas-adhikary)
 - [Aviyel](https://aviyel.com/discussions)
 - [Educative Edpresso Shorts](https://www.educative.io/profile/view/6363232210518016)
-- [Teal Feed](https://tealfeed.com/tapasadhikary54b)
+- [Teal Feed](https://tealfeed.com/tapasadhikary)
 <!-- I-WRITE-FOR:END -->
 
 
