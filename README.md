@@ -92,6 +92,8 @@ Here are my top-most Side Hustles. Most of the projects I have created are opens
 - [Aviyel](https://aviyel.com/discussions)
 - [Educative Edpresso Shorts](https://www.educative.io/profile/view/6363232210518016)
 - [Teal Feed](https://tealfeed.com/tapasadhikary)
+- [Dev Dojo](https://devdojo.com/tapasadhikary)
+- [Medium](https://medium.com/@tapasadhikary)
 <!-- I-WRITE-FOR:END -->
 
 
