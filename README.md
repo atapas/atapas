@@ -28,7 +28,7 @@ Here are my top-most Side Hustles. Most of the projects I have created are opens
 <!-- MY-SHOWOFF-PROJECTS:START -->
 - [Flicks Dashboard](https://flicks-admin.vercel.app/)([repo](https://github.com/atapas/flicks-admin))
 - [TryShape - Give your Creativity a Shape](https://tryshape.vercel.app/) ([repo](https://github.com/TryShape/tryshape))
-- [Web APIs Playground](http://js-webapis.netlify.app/) ([repo](https://github.com/atapas/webapis-playground))
+- [Web APIs Playground](https://webapis-playground.vercel.app/) ([repo](https://github.com/atapas/webapis-playground))
 - [ANKO - A Dad's effort to make the daughter love maths(Demo only)](https://anko.netlify.com/)
 - [Flicks - A Serverless Book Library App](https://flicks.gatsbyjs.io/) ([repo](https://github.com/atapas/flicks))
 - [Jamstack Subscription Form](https://subscription-form.netlify.app) ([repo](https://github.com/atapas/jamstack-subscription-form))
