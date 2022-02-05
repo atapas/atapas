@@ -24,8 +24,11 @@
 ## 🚀 My Side Hustles
 Here are my top-most Side Hustles. Most of the projects I have created are opensource. Please consider contributing to them. You are welcome to follow 🤝 me here to stay connected. Who doesn't need motivations? Show your support with a star(⭐) if any of my projects inspire you or helpful to you. 
 
-
-<!-- MY-SHOWOFF-PROJECTS:START -->
+<details>
+  <summary>CLICK to See all Side Hustles</summary>
+  <p>
+    <!-- MY-SHOWOFF-PROJECTS:START -->
+  
 - [Flicks Dashboard](https://flicks-admin.vercel.app/)([repo](https://github.com/atapas/flicks-admin))
 - [TryShape - Give your Creativity a Shape](https://tryshape.vercel.app/) ([repo](https://github.com/TryShape/tryshape))
 - [Web APIs Playground](https://webapis-playground.vercel.app/) ([repo](https://github.com/atapas/webapis-playground))
@@ -52,6 +55,10 @@ Here are my top-most Side Hustles. Most of the projects I have created are opens
 - [Nanny Plum(Repo only)](https://github.com/atapas/nanny-plum)
 - [tapasadhikary.com(Demo only)](https://tapasadhikary.com)
 <!-- MY-SHOWOFF-PROJECTS:END -->
+  </p>
+  
+</details>
+
 
 
 ## 📰 My Top 10 Blog Posts
