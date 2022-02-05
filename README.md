@@ -11,9 +11,22 @@
 </p>
 
 
-## 📈 My GitHub Stats  
+## 📈 My GitHub Stats
+### GitHub Stars
+
 ![Tapas's Github Stats](https://github-readme-stats.vercel.app/api?username=atapas&show_icons=true&theme=radical)
+
+### Top Languages
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atapas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### GitHub Streak
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=atapas&theme=highcontrast&hide_border=true" alt="atapas" />
+
+### Activity Trends
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=atapas&theme=dracula&hide_border=true)
 
 ## 📦 NPM Packages Published by Me
 ![npm](https://img.shields.io/npm/dt/react-notification-timeline?label=react-notification-timeline&style=plastic)
