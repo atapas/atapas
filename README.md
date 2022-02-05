@@ -84,6 +84,7 @@ I have written 250+ articles on several platforms like freeCodeCamp, CSS-Tricks,
 </details>
 
 ## ✍️ I Write For
+I'm a Freelance Writer. Here are a few platforms where I have been writing for a while now.
 
 <details>
   <summary>CLICK to See my the PLATFORMS I Write For</summary>
