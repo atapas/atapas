@@ -59,9 +59,8 @@ Here are my top-most Side Hustles. Most of the projects I have created are opens
   
 </details>
 
-
-
 ## 📰 My Top 10 Blog Posts
+I have written 250+ articles on several platforms like freeCodeCamp, CSS-Tricks, OpenReplay, Aviyel, Bugfender, My Own Hashnode Powered Blog, and many more. Here are TOP-10 that I like most about my work 😀
 
 <details>
   <summary>CLICK to See my TOP-10 Blog Articles</summary>
