@@ -63,16 +63,12 @@ Here are my top-most Side Hustles. Most of the projects I have created are opens
 
 ## 📰 My Top 10 Blog Posts
 
-<p align="center">
-<a href="https://twitter.com/tapasadhikary" target="_blank"><img height="30" width="30" src="./social/twitter.png"></a>&nbsp;&nbsp;
-<a href="https://blog.greenroots.info/" target="_blank"><img height="30" width="30" src="./social/500x500.png"></a>&nbsp;&nbsp;
-<a href="https://www.freecodecamp.org/news/author/tapas/" target="_blank"><img height="30" width="30" src="./social/fcc_secondary_small.jpg"></a>&nbsp;&nbsp;
-<a href="https://hashnode.com/@atapas" target="_blank"><img height="30" width="30" src="./social/hashnode.png"></a>&nbsp;&nbsp;
-<a href="https://dev.to/atapas"  target="_blank"><img height="30" width="30" src="./social/devto.png"></a>&nbsp;&nbsp;
-<a href="https://tapasadhikary.com"  target="_blank"><img height="30" width="30" src="./social/website.png"></a>
-</p>
+<details>
+  <summary>CLICK to See my TOP-10 Blog Articles</summary>
+  <p>
 
 <!-- BLOG-POST-LIST:START -->
+    
 1. [What are Pure Functions and Side Effects in JavaScript?](https://blog.greenroots.info/what-are-pure-functions-and-side-effects-in-javascript)
 1. [How to Learn Something New Every Day as a Software Developer](https://www.freecodecamp.org/news/learn-something-new-every-day-as-a-software-developer/)
 1. [Theming and Theme Switching with React and styled-components](https://css-tricks.com/theming-and-theme-switching-with-react-and-styled-components/)
@@ -84,9 +80,17 @@ Here are my top-most Side Hustles. Most of the projects I have created are opens
 1. [How to find blog content ideas effortlessly?](https://blog.greenroots.info/how-to-find-blog-content-ideas-effortlessly-ckghrjv5200o7rhs1ewn40102)
 1. [JSON for Beginners – JavaScript Object Notation Explained in Plain English](https://www.freecodecamp.org/news/what-is-json-a-json-file-example/)
 
-<!-- BLOG-POST-LIST:END -->
+    <!-- BLOG-POST-LIST:END -->
+  </p>
+</details>
 
 ## ✍️ I Write For
+
+<details>
+  <summary>CLICK to See my the PLATFORMS I Write For</summary>
+  <p>
+
+
 <!-- I-WRITE-FOR:START -->
 - [GreenRoots - My Hashnode powered blog](https://blog.greenroots.info/)
 - [freeCodeCamp News](https://www.freecodecamp.org/news/author/tapas/)
@@ -102,6 +106,9 @@ Here are my top-most Side Hustles. Most of the projects I have created are opens
 - [Dev Dojo](https://devdojo.com/tapasadhikary)
 - [Medium](https://medium.com/@tapasadhikary)
 <!-- I-WRITE-FOR:END -->
+  </p>
+</details>  
+  
 
 
 ## 📫 You can find me @
