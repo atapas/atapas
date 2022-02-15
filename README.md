@@ -1,7 +1,7 @@
 <h2 align="center">Hello there! My name is Tapas Adhikary 👋🤓</h2>
 
 <p align=center>
-<img src="./images/profile.png" alt="profile" />
+<img src="./images/profile-new.png" alt="profile" />
 </p>
 
 
