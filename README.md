@@ -41,7 +41,7 @@ Show your support with a star(⭐) if any of my projects inspire you or helpful 
 
 <p align="center">
   <a href="https://tapasadhikary.com/project">
-  <img src="./images/projects.gif" alt="projects" />    
+  <img src="./images/sideprojects.gif" alt="projects" />    
     </a>
 </p>
 
