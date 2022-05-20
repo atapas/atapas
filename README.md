@@ -104,7 +104,7 @@ I'm a Freelance Writer. Here are a few platforms where I have been writing for a
 - [Website](https://tapasadhikary.com/) 🔗
 - [Blog](https://blog.greenroots.info/) 💻
 - [LinkedIn](https://www.linkedin.com/in/tapasadhikary/) 💼
-- [Instagram](https://www.instagram.com/tapas.adhikary/) 😎
+- [Instagram](https://www.instagram.com/tapascript/) 😎
 - [Facebook](https://www.facebook.com/tapasadhi) 😏
 <!-- YOU-CAN-FIND-ME:END -->
 
