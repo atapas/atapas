@@ -40,9 +40,8 @@ Here are my top-most Side Hustles. Most of the projects I have created are opens
 Show your support with a star(⭐) if any of my projects inspire you or helpful to you. 
 
 <p align="center">
-  <a href="https://tapasadhikary.com/project"><img src="./images/sideprojects.gif" alt="projects"/></a>
+  <a href="https://tapasadhikary.com/project" target="_blank"><img src="./images/sideprojects.gif" alt="projects"/></a>
 </p>
-
 
 ## 📰 My Top 10 Blog Posts
 I have written 250+ articles on several platforms like freeCodeCamp, CSS-Tricks, OpenReplay, Aviyel, Bugfender, My Own Hashnode Powered Blog, and many more. Here are TOP-10 that I like most about my work 😀
