@@ -28,6 +28,10 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=atapas&theme=dracula&hide_border=true)
 
+## Badges
+
+[![@atapas's Holopin board](https://holopin.io/api/user/board?user=atapas)](https://holopin.io/@atapas)
+
 ## 📦 NPM Packages Published by Me
 ![npm](https://img.shields.io/npm/dt/react-notification-timeline?label=react-notification-timeline&style=plastic)
 ![npm](https://img.shields.io/npm/dt/i18n-web?label=i18n-web&style=plastic)
