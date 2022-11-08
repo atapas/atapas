@@ -6,8 +6,8 @@
 
 
 <p align=center>
-  <img alt="Twitter Follow" height="30px" src="https://img.shields.io/twitter/follow/tapasadhikary?label=Friends%20on%20Twitter&style=social">  . 
-  <img alt="YouTube Channel Subscribers" height="30px" src="https://img.shields.io/youtube/channel/subscribers/UCaYr5yxgOyk599Mnb3TGh-g?label=Subscribers&style=social">
+  <img alt="Twitter Follow" height="30px" src="https://img.shields.io/twitter/follow/tapasadhikary?label=Follow%20on%20Twitter&style=social">  . 
+  <img alt="YouTube Channel Subscribers" height="30px" src="https://img.shields.io/youtube/channel/subscribers/UCaYr5yxgOyk599Mnb3TGh-g?label=SUBSCRIBE&style=social">
 </p>
 
 
