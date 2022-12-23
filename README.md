@@ -24,10 +24,6 @@
 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=atapas&theme=highcontrast&hide_border=true" alt="atapas" />
 
-### Activity Trends
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=atapas&theme=dracula&hide_border=true)
-
 ### GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=atapas&theme=juicyfresh&no-bg=true" />
