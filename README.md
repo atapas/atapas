@@ -6,8 +6,7 @@
 
 
 <p align=center>
-  <a href="https://twitter.com/tapasadhikary"><img alt="Twitter Follow" height="30px" src="https://img.shields.io/twitter/follow/tapasadhikary?label=Follow%20on%20Twitter&style=social"></a>  . 
-  <a href="https://youtube.com/@tapasadhikary"><img alt="YouTube Channel Subscribers" height="30px" src="https://img.shields.io/youtube/channel/subscribers/UCaYr5yxgOyk599Mnb3TGh-g?label=Subscribe&style=social"></a>
+  <a href="https://twitter.com/tapasadhikary"><img alt="Twitter Follow" height="30px" src="https://img.shields.io/twitter/follow/tapasadhikary?label=Follow%20on%20Twitter&style=social"></a>
 </p>
 
 
