@@ -39,7 +39,7 @@ Here are my top-most Side Hustles. Most of the projects I have created are opens
 Show your support with a star(⭐) if any of my projects inspire you or helpful to you. 
 
 <p align="center">
-  <a href="https://tapasadhikary.com/project" target="_blank"><img src="./images/sideprojects.gif" alt="projects"/></a>
+  <a href="https://tapasadhikary.com/projects" target="_blank"><img src="./images/sideprojects.gif" alt="projects"/></a>
 </p>
 
 
