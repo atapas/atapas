@@ -19,9 +19,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atapas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### GitHub Streak
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=atapas&theme=highcontrast&hide_border=true" alt="atapas" />
 
 ### GitHub Trophies
 
