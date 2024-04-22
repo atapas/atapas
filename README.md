@@ -1,8 +1,6 @@
 <h2 align="center">Hello there! My name is Tapas Adhikary 👋🤓</h2>
 
-<p align=center>
-  <a href="https://tapasadhikary.com" target="_blank"><img src="./images/profile-new.png" alt="profile" /></a>
-</p>
+<a href="https://gitroll.io/profile/uHN1os1cVJNTyKwqW1M7HXKEC6fk2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uHN1os1cVJNTyKwqW1M7HXKEC6fk2" alt="GitRoll Profile Badge"/></a>
 
 
 <p align=center>
