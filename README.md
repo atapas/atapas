@@ -1,11 +1,7 @@
 <h2 align="center">Hello there! My name is Tapas Adhikary 👋🤓</h2>
 
-<a href="https://gitroll.io/profile/uHN1os1cVJNTyKwqW1M7HXKEC6fk2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uHN1os1cVJNTyKwqW1M7HXKEC6fk2" alt="GitRoll Profile Badge"/></a>
+<a href="https://youtube.com/tapasadhikary" target="_blank"><img src="./images/YT Fusion - LinkedIn.png" alt="GitRoll Profile Badge"/></a>
 
-
-<p align=center>
-  <a href="https://twitter.com/tapasadhikary"><img alt="Twitter Follow" height="30px" src="https://img.shields.io/twitter/follow/tapasadhikary?label=Follow%20on%20Twitter&style=social"></a>
-</p>
 
 
 ## 📈 My GitHub Stats
