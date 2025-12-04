@@ -104,6 +104,7 @@ I am the creator of **ReactPlay**, an open-source developer community where peop
 I speak at meetups, conferences, and developer communities.
 
 ### Notable Talks
+- **CityJS India 2025** – Scalability
 - **React Nexus 2025** – Next.js Caching Strategies  
 - **React Summit** – React Compiler(Berlin, 2024), Next.js Performance(NY, 2025)  
 - **Community Meetups** – Testing, JavaScript performance, AI topics  
@@ -131,13 +132,13 @@ I regularly share engineering content around:
 - AI concepts & terminologies  
 - Career growth for developers  
 
-You can explore more at: **https://tapascript.io**
+You can explore more at: **https://www.freecodecamp.org/news/author/atapas/**
 
 ## 💬 Let's Connect
 
 If you want to collaborate on building products, AI solutions, or want me to speak at your event:
 
-📧 Email: *Available on my website*  
+📧 Email: tapas.adhikary@gmail.com  
 🌐 Website: https://www.tapascript.io  
 💼 LinkedIn: https://linkedin.com/in/tapasadhikary
 
@@ -148,4 +149,4 @@ I strongly believe:
 
 ## ⭐ Support My Work
 
-If my open-source or content work has helped you, consider giving a ⭐ to my projects or supporting me through GitHub Sponsors.
+If my open-source or content work has helped you, consider giving a ⭐ to my projects or supporting me through [GitHub Sponsors](https://github.com/sponsors/atapas).
