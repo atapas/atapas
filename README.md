@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <strong>Tapas Adhikary</strong></h1>
-<h3 align="center">Demand-Stack Engineer • AI Builder • Tech Educator, tapaScript • Speaker • CEO, CreoWis</h3>
+<h3 align="center">CEO at CreoWis, Demand-Stack Engineer • AI Builder • Tech Educator at tapaScript • Speaker </h3>
 
 <p align="center">
   📺 YouTube(<a href="https://www.youtube.com/@tapasadhikary">English</a> | <a href="https://www.youtube.com/@tapascript-bangla">Bangla</a>) •
@@ -20,13 +20,13 @@ I work at the intersection of **JavaScript, AI, architectural thinking, and deve
 
 ## 🧠 What I Do
 
-- 🎥 Teach developers through **YouTube, blogs, and live workshops**
-- 🏗️ Build **full-stack web & AI products** using JavaScript, TypeScript, React, Next.js, Node.js  
-- 🤖 Develop **AI-powered tools, agents, and MCP-based integrations**    
-- 🎤 Speak at **React Summit, React Nexus, meetups, dev conferences**  
-- 🌱 Mentor developers, run tech communities, and guide career growth  
-- 🧪 Advocate for **testing, debugging, and writing maintainable software**  
-- 🧵 Share insights on **engineering, leadership, and the craft of coding**
+- 🎥 Teach developers through YouTube, blogs, and live workshops.
+- 🏗️ Lead a growing Startup dedicated to delivering world-class software products.
+- 🤖 Develop AI-powered tools, agents, and MCP-based integrations.
+- 🎤 Host and Speak at Conferences, Meetups. 
+- 🌱 Mentor developers, run tech communities, and guide career growth.
+- 🧪 Advocate for public speaking, testing, debugging, and writing maintainable software.
+- 🧵 Share insights on engineering, leadership, and the craft of coding.
 
 ## 🏢 CEO & Co-Founder — **CreoWis Technologies**
 
@@ -56,12 +56,11 @@ On my English YouTube channel, I teach:
 - Modern React & performance patterns  
 - Full-stack development with real projects
 - Engineering productivity, debugging, and architecture  
-- AI concepts, LLMs, agents, MCP & practical AI apps(Coming in January 2026)
+- AI concepts, LLMs, agents, MCP & practical AI apps(*Starting in January 2026*)
 
 👉 Check it out: https://www.youtube.com/@tapasadhikary
 
-My goal:  
-**Make developers confident by showing *how things actually work under the hood*.**
+My goal: Make developers confident by showing *how things actually work under the hood.
 
 ### Bangla Channel — Making Tech Accessible for Everyone  
 On my Bangla channel, I focus on:
@@ -74,8 +73,7 @@ On my Bangla channel, I focus on:
 
 👉 Check it out: https://www.youtube.com/@tapascript-bangla
 
-This is my way of giving back to the community I grew up in —  
-**removing language barriers so anyone can succeed in tech.**
+This is my way of giving back to the community I grew up in, removing language barriers so anyone can succeed in tech.
 
 ### 🌱 The Mission Behind My Teaching  
 No matter the language, my teaching philosophy remains the same:
@@ -98,6 +96,11 @@ I am the creator of **ReactPlay**, an open-source developer community where peop
 - 🎓 Helping thousands of developers learn by doing  
 
 👉 Check it out: https://reactplay.io
+
+## Communities I Drive
+- [React Play](https://www.linkedin.com/company/reactplay)
+- [React Kolkata](https://www.linkedin.com/showcase/react-kolkata)
+- [React Siliguri](https://www.linkedin.com/showcase/react-siliguri)
 
 ## 🎤 Speaking & Workshops
 
